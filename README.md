@@ -30,4 +30,3 @@ Skills: Python Scripting / Web Development / Image Processing & Data Science / W
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharjeelKhaliq&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SharjeelKhaliq)  
-
